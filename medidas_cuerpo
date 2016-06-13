@@ -1,3 +1,12 @@
+# A continuación un conjunto de medidas corporales tomadas
+# a un grupo de estudiantes en una universidad de Medellín.
+# A continuación la variables de la base de datos:
+# edad: edad del estudiante en años
+# peso: peso del estudiante en kilogramos
+# altura: estatura del estudiante en centímetros
+# sexo: género del estudiante
+# muneca: diametro de la muñeca derecha en centímetros
+# biceps: diametro del biceps derecho en centímetros
 edad	peso	altura	sexo	muneca	biceps
 43	87.3	188.0	Hombre	12.2	35.8
 65	80.0	174.0	Hombre	12.0	35.0
