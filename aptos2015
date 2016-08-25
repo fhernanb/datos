@@ -1,4 +1,4 @@
-# La base de datos fue recolectada en el año 2015.
+﻿# La base de datos fue recolectada en el año 2015.
 # Las variables precio y avalúo están en millones de pesos.
 # La variable administracion corresponde al valor mensual en pesos por el servicio de administración del edificio.
 # La variable terminado hace referencia a si el apto tiene reformas o mejoras en relación al estado del apto nuevo. 
@@ -584,7 +584,7 @@ precio	mt2	ubicacion	estrato	alcobas	banos	balcon	parqueadero	administracion	ava
  240.00  75 Belen 4  3 2 si si    173000  136.44 si
  250.00 129 Belen 4  3 3 si si    268000  159.92 si
  255.00  80 Belen 5  2 2 si si         0   70.05 si
- 260.00 137 Belen 4  3 4 si si 297000000  150.00 si
+ 260.00 137 Belen 4  3 4 si si 297000  150.00 si
  265.00 104 Belen 4  3 2 si no         0   97.54 si
   67.00  41 Centro 3  2 1 no no     72000   32.05 si
   70.00  26 Centro 4  1 1 no no     42000   27.00 no
@@ -670,7 +670,7 @@ precio	mt2	ubicacion	estrato	alcobas	banos	balcon	parqueadero	administracion	ava
  330.00 155 Laureles 5  3 3 si si         0  166.18 si
  330.00 150 Laureles 6  3 2 no si    410000  194.62 si
  330.00 254 Laureles 5  4 4 si si    409000  153.00 si
- 340.00 132 Laureles 5  3 2 no si 494000000  172.62 si
+ 340.00 132 Laureles 5  3 2 no si 494000  172.62 si
  340.00 140 Laureles 5  3 3 no si    208000  153.00 si
  343.00 132 Laureles 5  3 1 si si    120000  204.40 si
  350.00 119 Laureles 5  3 2 si si    400000  170.54 si
