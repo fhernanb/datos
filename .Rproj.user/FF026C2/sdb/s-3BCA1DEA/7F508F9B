@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# datos\nBases de datos\n\nSi usted quiere descargar la base de datos llamada `orellana` puede escribir en su consola de R el siguiente código y la base quedará almacenada en el objeto `datos`. \n\n```s\nfile <- 'https://raw.githubusercontent.com/fhernanb/datos/master/orellana'\ndatos <- read.table(file=file, header=TRUE)\n```\nSi desea usar otra base de datos lo único que debe hacer es reemplazar la palabra orellana por el nombre de la base de datos de interés.\n",
+    "created" : 1476131875223.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "879706355",
+    "id" : "7F508F9B",
+    "lastKnownWriteTime" : 1476131964,
+    "last_content_update" : 1476131964406,
+    "path" : "C:/Users/Freddy/Desktop/github/datos/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

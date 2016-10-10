@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\nfile <- 'https://raw.githubusercontent.com/fhernanb/datos/master/cohetes'\ndatos <- read.table(file=file, header=TRUE)\nhead(datos)\n\n\n\n\n",
+    "created" : 1476131922085.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1039403115",
+    "id" : "4E0DDFDA",
+    "lastKnownWriteTime" : 2315732155208049267,
+    "last_content_update" : 1476132159330,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
