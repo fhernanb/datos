@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "\nfile <- 'https://raw.githubusercontent.com/fhernanb/datos/master/cohetes'\ndatos <- read.table(file=file, header=TRUE)\nhead(datos)\n\n\n\n\n",
+    "contents" : "\nfile <- 'https://raw.githubusercontent.com/fhernanb/datos/master/aptos2015'\ndatos <- read.table(file=file, header=TRUE)\nhead(datos)\n\ndatos <- read.table('vacas2016.txt')\n\nwrite.table(datos, col.names=TRUE, file='vacas2016')\n\n\n",
     "created" : 1476131922085.000,
     "dirty" : true,
     "encoding" : "",
     "folds" : "",
-    "hash" : "1039403115",
+    "hash" : "228123267",
     "id" : "4E0DDFDA",
     "lastKnownWriteTime" : 2315732155208049267,
-    "last_content_update" : 1476132159330,
+    "last_content_update" : 1476132584702,
     "path" : null,
     "project_path" : null,
     "properties" : {
