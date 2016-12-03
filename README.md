@@ -1,4 +1,3 @@
-[![](http://cranlogs.r-pkg.org/badges/GHQ)](http://cran.rstudio.com/web/packages/GHQ/index.html)
 # datos
 Este repositorio contiene varias bases de datos que son utilizadas en los cursos de estadística de la Universidad Nacional de Colombia sede Medellín.
 
