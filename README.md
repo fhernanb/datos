@@ -1,3 +1,4 @@
+![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/bookdown)
 # datos
 Este repositorio contiene varias bases de datos que son utilizadas en los cursos de estadística de la Universidad Nacional de Colombia sede Medellín.
 
