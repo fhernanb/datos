@@ -1,4 +1,15 @@
-# Esta base de datos
+# La base de datos babies tiene información sobre las madres 
+# y sus bebés recién nacidos en la época de 1960 a 1967 en 
+# California (EEUU). Las variables que conforman la base de datos son
+#
+# bwt: Baby’s weight at birth, to the nearest ounce (999 unknown).
+# gestation: Duration of the pregnancy in days, calculated from the first day of the last normal menstrual period (999 unknown).
+# parity: Indicator for whether the baby is the first born (1) or unknown (9).
+# age: Mother’s age at the time of conception, in years.
+# height: Height of the mother, in inches (99 unknown).
+# weight: Mother’s prepregnancy weight, in pounds (999 unknown).
+# smoke: smoking status Indicator for whether the mother smokes (1) or not (0), (9=unknown).
+#
 bwt	gestation	parity	age	height	weight	smoke
 120	284	First born	27	62	100	Not
 113	282	First born	33	64	135	Not
