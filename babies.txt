@@ -1,3 +1,4 @@
+# Esta base de datos
 bwt	gestation	parity	age	height	weight	smoke
 120	284	First born	27	62	100	Not
 113	282	First born	33	64	135	Not
