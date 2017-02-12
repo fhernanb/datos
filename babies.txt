@@ -1,0 +1,1237 @@
+bwt	gestation	parity	age	height	weight	smoke
+120	284	First born	27	62	100	Not
+113	282	First born	33	64	135	Not
+128	279	First born	28	64	115	Yes
+123	NA	First born	36	69	190	Not
+108	282	First born	23	67	125	Yes
+136	286	First born	25	62	 93	Not
+138	244	First born	33	62	178	Not
+132	245	First born	23	65	140	Not
+120	289	First born	25	62	125	Not
+143	299	First born	30	66	136	Yes
+140	351	First born	27	68	120	Not
+144	282	First born	32	64	124	Yes
+141	279	First born	23	63	128	Yes
+110	281	First born	36	61	 99	Yes
+114	273	First born	30	63	154	Not
+115	285	First born	38	63	130	Not
+ 92	255	First born	25	65	125	Yes
+115	261	First born	33	60	125	Yes
+144	261	First born	33	68	170	Not
+119	288	First born	43	66	142	Yes
+105	270	First born	22	56	 93	Not
+115	274	First born	27	67	175	Yes
+137	287	First born	25	66	145	Not
+122	276	First born	30	68	182	Not
+131	294	First born	23	65	122	Not
+103	261	First born	27	65	112	Yes
+146	280	First born	26	58	106	Not
+114	266	First born	20	65	175	Yes
+125	292	First born	32	65	125	Not
+114	274	First born	28	66	132	Yes
+122	270	First born	26	61	105	Not
+ 93	278	First born	34	61	146	Not
+130	268	First born	30	66	123	Not
+119	275	First born	23	60	105	Not
+113	281	First born	24	65	120	Not
+134	283	First born	22	67	130	Not
+107	279	First born	24	63	115	Not
+134	288	First born	23	63	 92	Yes
+122	267	First born	27	65	101	Yes
+128	282	First born	31	65	NA	Not
+129	293	First born	30	61	160	Not
+110	278	First born	23	63	177	Not
+138	302	First born	26	NA	NA	Yes
+111	270	First born	27	61	119	Not
+ 87	248	First born	37	65	130	Yes
+143	274	First born	27	63	110	Yes
+155	294	First born	32	66	150	Not
+110	272	First born	25	60	 90	Not
+122	275	First born	26	66	147	Not
+145	291	First born	26	63	119	Yes
+115	258	First born	26	62	130	Not
+108	283	First born	31	65	148	Yes
+102	282	First born	28	61	110	Not
+143	286	First born	31	64	126	Not
+146	267	First born	30	67	132	Not
+124	275	First born	22	60	130	Not
+124	278	First born	26	70	145	Yes
+145	257	First born	33	65	140	Not
+106	273	First born	28	60	116	Not
+ 75	232	First born	33	61	110	Not
+107	273	First born	24	61	 96	Not
+124	288	First born	22	67	118	Not
+122	280	First born	23	65	125	Yes
+101	245	First born	23	63	130	Yes
+128	283	First born	28	63	125	Yes
+104	282	First born	36	65	115	Yes
+ 97	246	First born	37	63	150	Not
+137	274	First born	26	69	137	Yes
+103	273	First born	31	63	170	Yes
+142	276	First born	38	63	170	Not
+130	289	First born	27	66	130	Not
+156	292	First born	26	63	118	Not
+133	284	First born	25	66	125	Yes
+120	274	First born	24	62	120	Not
+ 91	270	First born	24	60	149	Yes
+127	274	First born	21	62	110	Not
+153	286	First born	26	63	107	Yes
+121	276	First born	39	63	130	Not
+120	277	First born	27	63	126	Not
+ 99	272	First born	27	62	103	Yes
+149	293	First born	35	65	116	Not
+129	280	First born	23	64	104	Not
+139	292	First born	25	68	135	Not
+114	274	First born	33	67	148	Yes
+138	287	First born	30	66	145	Not
+129	274	First born	29	71	NA	Yes
+138	294	First born	32	65	117	Not
+131	296	First born	37	63	143	Not
+125	305	First born	22	70	196	Yes
+114	NA	First born	24	67	113	Yes
+128	281	First born	33	59	117	Not
+134	268	First born	28	62	112	Not
+114	271	First born	27	60	104	Not
+ 92	NA	First born	31	67	130	Not
+ 85	278	First born	23	61	103	Yes
+135	282	First born	22	64	100	Not
+ 87	255	First born	28	61	100	Yes
+125	302	First born	37	62	162	Not
+128	NA	First born	35	62	110	Not
+105	254	First born	29	64	137	Not
+120	279	First born	27	60	121	Yes
+119	274	First born	33	64	120	Not
+116	286	First born	24	61	NA	Not
+107	280	First born	36	65	117	Yes
+119	273	First born	24	61	108	Yes
+133	279	First born	37	66	140	Not
+155	287	First born	33	66	143	Not
+126	273	First born	22	65	150	Not
+129	303	First born	27	64	125	Not
+137	274	First born	29	65	154	Not
+103	269	First born	26	65	NA	Yes
+125	302	First born	28	65	125	Not
+ 91	255	First born	19	67	136	Yes
+134	293	First born	21	65	NA	Not
+ 95	279	First born	22	66	145	Yes
+118	276	First born	29	64	114	Not
+141	278	First born	33	66	109	Yes
+131	283	First born	25	67	215	Not
+121	264	First born	32	66	145	Not
+100	243	First born	39	65	170	Yes
+131	288	First born	24	61	103	Not
+118	284	First born	26	66	133	Not
+152	288	First born	35	67	130	Not
+121	284	First born	34	69	155	Not
+117	276	First born	31	69	150	Not
+115	283	First born	25	61	150	Yes
+112	277	First born	23	65	110	Not
+ 94	267	First born	30	62	120	Yes
+109	272	First born	35	66	154	Not
+132	225	First born	28	67	148	Not
+117	278	First born	25	62	103	Not
+101	266	First born	20	67	110	Yes
+112	294	First born	25	64	125	Yes
+128	283	First born	24	60	100	Not
+128	279	First born	25	66	147	Yes
+117	258	First born	31	64	120	Not
+134	278	First born	24	69	135	Not
+127	284	First born	28	65	145	Not
+ 93	269	First born	21	65	104	Yes
+122	275	First born	27	65	165	Not
+100	265	First born	39	62	107	Yes
+147	293	First born	32	65	123	Not
+120	299	First born	25	65	110	Not
+144	277	First born	30	63	127	Not
+105	268	First born	32	61	115	Yes
+136	276	First born	23	66	155	Not
+102	262	First born	24	63	125	Not
+160	300	First born	29	71	175	Yes
+113	275	First born	24	68	140	Yes
+126	282	First born	38	66	250	Not
+126	271	First born	29	68	148	Not
+115	278	First born	29	61	128	Not
+127	336	First born	29	NA	NA	Not
+119	284	First born	20	66	132	Not
+129	NA	First born	23	NA	NA	Yes
+123	318	First born	21	64	152	Not
+118	282	First born	22	68	135	Yes
+133	287	First born	24	60	104	Yes
+105	281	First born	39	61	NA	Not
+134	290	First born	22	60	121	Not
+144	288	First born	21	67	111	Not
+111	273	First born	43	62	138	Not
+125	262	First born	36	66	190	Not
+135	296	First born	30	63	123	Not
+134	289	First born	22	63	125	Not
+116	289	First born	22	65	160	Yes
+129	291	First born	29	69	123	Not
+113	301	First born	26	67	105	Yes
+131	295	First born	23	65	123	Yes
+126	293	First born	29	59	110	NA
+121	272	First born	22	62	109	Not
+121	271	First born	25	68	118	Yes
+138	287	First born	24	65	115	Not
+136	278	First born	23	61	105	Not
+120	279	First born	30	66	131	Not
+122	278	First born	31	72	155	Yes
+134	267	First born	30	66	170	Not
+101	280	First born	25	65	123	Yes
+112	288	First born	32	62	125	Not
+132	290	First born	25	64	120	Not
+136	285	First born	23	62	175	Not
+113	277	First born	23	65	192	Yes
+ 96	271	First born	23	64	116	Not
+124	277	First born	29	63	220	Not
+113	306	First born	21	62	150	Not
+131	286	First born	34	NA	NA	Yes
+137	258	First born	25	63	117	Not
+133	268	First born	24	61	 93	Not
+107	244	First born	20	58	 97	Not
+ 96	265	First born	28	59	135	Yes
+142	278	First born	35	66	136	Yes
+136	275	First born	22	63	110	Not
+ 75	239	First born	26	63	124	Yes
+125	302	First born	32	61	NA	Yes
+104	295	First born	26	65	155	Yes
+130	274	First born	30	63	150	Not
+ 90	290	First born	22	63	168	Not
+118	276	First born	22	66	147	Yes
+123	320	First born	22	66	117	Not
+137	291	First born	34	61	110	Not
+101	268	First born	19	63	140	Not
+142	275	First born	25	64	132	Not
+ 98	282	First born	20	63	 97	Yes
+124	283	First born	23	63	112	Not
+151	310	First born	21	65	NA	Not
+109	281	First born	23	61	105	Not
+150	285	First born	22	61	110	Yes
+119	282	First born	26	68	150	Yes
+131	280	First born	38	65	125	Not
+101	272	First born	29	63	150	Yes
+113	246	First born	19	62	138	Yes
+127	270	First born	25	62	150	Not
+ 97	260	First born	23	61	 99	Yes
+117	282	First born	28	64	115	Not
+150	290	First born	21	65	125	Not
+ 85	234	First born	33	67	130	Not
+128	288	First born	27	70	145	Not
+105	233	First born	34	61	130	Not
+ 90	269	First born	26	67	125	NA
+115	274	First born	22	65	130	Yes
+107	290	First born	28	62	135	Not
+121	275	First born	24	63	121	Yes
+119	286	First born	20	64	180	Not
+117	275	First born	20	64	145	Yes
+134	264	First born	26	68	136	Not
+117	288	First born	35	65	142	Not
+115	268	First born	28	66	128	Not
+110	254	First born	23	63	120	Yes
+130	282	First born	21	62	106	Yes
+140	274	First born	23	63	106	Yes
+111	284	First born	22	NA	NA	Yes
+ 93	249	First born	33	66	117	Not
+154	292	First born	42	65	116	Yes
+125	290	First born	19	64	127	Not
+ 93	318	First born	31	66	135	Not
+122	277	First born	33	63	135	Yes
+129	267	First born	22	63	160	Not
+126	276	First born	23	63	120	Not
+ 85	274	First born	24	68	155	Not
+173	293	First born	30	63	110	Not
+144	329	First born	22	65	190	Yes
+114	278	First born	25	65	140	Yes
+111	NA	First born	27	63	105	Yes
+154	287	First born	27	65	125	Yes
+150	274	First born	25	67	117	Yes
+111	278	First born	21	62	125	Not
+126	277	First born	32	66	128	Not
+122	261	First born	28	65	124	Not
+141	282	First born	24	68	169	Not
+142	274	First born	24	63	125	Not
+ 99	262	First born	38	59	110	Yes
+113	286	First born	23	63	105	Not
+149	282	First born	21	61	110	Not
+117	328	First born	29	65	125	Yes
+130	274	First born	26	64	185	NA
+106	275	First born	31	65	142	NA
+128	290	First born	22	64	118	Not
+125	286	First born	21	64	139	Not
+114	290	First born	30	66	160	Not
+130	285	First born	23	63	128	Yes
+116	148	First born	28	66	135	Not
+ 81	256	First born	30	64	148	Yes
+124	287	First born	27	62	105	Yes
+125	292	First born	22	65	122	Not
+110	262	First born	25	66	140	Not
+125	279	First born	23	63	104	Yes
+138	294	First born	40	64	125	Not
+142	284	First born	39	66	132	Not
+115	278	First born	23	60	102	Yes
+102	280	First born	38	67	140	Not
+140	294	First born	25	61	103	Not
+133	276	Unknown	22	63	119	Not
+127	290	First born	35	66	165	Not
+104	274	Unknown	20	62	115	Yes
+119	275	First born	42	67	156	Yes
+152	301	First born	29	65	150	Not
+123	284	Unknown	20	65	120	Yes
+143	273	First born	19	66	135	Not
+131	308	First born	40	65	160	Not
+141	319	Unknown	20	67	140	Yes
+129	277	First born	30	66	142	Yes
+113	282	Unknown	36	59	140	Not
+119	292	First born	33	62	118	Yes
+109	295	Unknown	23	63	103	Yes
+104	280	Unknown	27	68	146	Yes
+131	282	Unknown	21	66	126	Not
+110	293	Unknown	28	64	135	Yes
+148	279	First born	27	71	189	Not
+137	283	Unknown	20	65	157	Not
+117	283	First born	27	63	108	Not
+115	302	Unknown	22	67	135	Not
+ 98	280	First born	35	64	122	Yes
+136	303	Unknown	20	68	148	Yes
+121	276	Unknown	23	71	152	Yes
+132	285	Unknown	25	63	140	Not
+ 91	264	First born	36	60	100	Yes
+119	294	First born	34	59	105	Not
+ 85	273	First born	26	60	105	Yes
+106	271	Unknown	26	61	110	Yes
+132	284	First born	29	64	122	Not
+ 80	266	Unknown	25	62	125	Not
+109	286	First born	24	64	125	Yes
+111	306	First born	27	61	102	Not
+143	292	Unknown	21	65	125	Not
+136	290	First born	26	66	135	Not
+110	285	Unknown	19	64	130	Not
+ 98	257	First born	29	66	130	Yes
+108	305	Unknown	24	65	112	Not
+101	295	First born	18	62	145	Yes
+ 71	281	First born	32	60	117	Yes
+124	292	First born	29	68	176	Yes
+ 93	256	First born	34	66	NA	Yes
+106	276	First born	30	66	130	Not
+101	278	First born	25	62	112	Yes
+100	277	First born	31	62	100	Yes
+104	269	First born	35	63	110	Yes
+117	270	First born	24	67	135	Yes
+117	267	First born	29	65	120	Yes
+149	279	First born	25	67	135	Not
+135	284	First born	25	66	123	Not
+110	283	Unknown	21	66	129	Not
+121	276	First born	31	67	130	Not
+142	285	Unknown	24	66	136	Not
+104	260	First born	33	64	145	Not
+138	296	First born	34	66	120	Not
+112	278	Unknown	21	63	120	Not
+117	293	First born	39	60	120	Yes
+109	282	First born	25	62	106	Yes
+131	266	Unknown	28	67	135	Not
+120	273	First born	29	64	130	Yes
+116	270	First born	29	63	132	Not
+140	290	First born	23	65	110	Not
+103	273	Unknown	22	64	110	Yes
+120	279	Unknown	23	67	135	Not
+139	260	Unknown	32	64	127	Not
+123	254	First born	26	62	130	Yes
+104	280	Unknown	23	64	107	Yes
+131	283	First born	31	NA	NA	Not
+111	270	First born	22	59	103	Not
+122	277	First born	32	63	157	Yes
+116	271	Unknown	30	67	144	Yes
+129	277	First born	27	68	130	Yes
+133	292	First born	30	65	112	Yes
+110	277	First born	25	61	130	Not
+105	276	First born	22	67	130	Not
+ 93	246	First born	37	65	130	Not
+122	281	First born	42	63	103	Yes
+133	293	First born	23	64	110	Yes
+130	296	Unknown	22	66	117	Yes
+104	307	First born	24	59	122	Not
+106	278	First born	31	65	110	Yes
+120	281	First born	33	63	113	Not
+121	284	First born	27	63	NA	Yes
+118	276	Unknown	18	63	128	Not
+140	290	Unknown	19	67	132	Yes
+114	268	First born	22	64	104	Not
+116	280	First born	40	62	159	Not
+129	284	First born	24	64	115	Not
+120	286	First born	22	62	115	Yes
+127	281	First born	24	63	112	Yes
+107	278	Unknown	27	NA	135	Not
+ 71	234	First born	32	64	110	Yes
+ 88	274	First born	30	66	130	Not
+107	300	First born	19	NA	NA	Yes
+122	286	First born	23	64	145	Not
+106	302	Unknown	19	66	147	Not
+135	285	First born	30	66	130	Not
+107	290	First born	26	63	112	Not
+129	294	First born	32	62	170	Yes
+126	274	First born	39	62	122	Not
+116	293	Unknown	26	64	125	Not
+124	294	First born	26	62	122	Not
+123	281	First born	23	68	136	Not
+145	315	First born	39	67	143	Yes
+102	278	First born	27	67	135	Yes
+129	293	First born	30	65	130	Yes
+ 98	276	Unknown	22	61	121	Not
+110	272	First born	28	60	108	Not
+135	282	First born	24	67	128	Yes
+101	278	Unknown	20	62	105	Not
+ 96	266	First born	26	65	125	Not
+104	276	Unknown	18	60	109	Yes
+100	249	First born	24	67	100	Not
+154	292	First born	40	66	145	Not
+127	293	First born	31	67	137	Not
+126	288	First born	31	62	150	Not
+126	282	Unknown	23	66	115	Yes
+127	279	First born	26	67	155	Yes
+ 98	275	First born	25	65	112	Yes
+127	288	Unknown	21	66	130	Not
+129	299	First born	22	68	145	Not
+131	292	Unknown	22	64	124	Yes
+132	289	Unknown	19	66	145	Not
+127	280	First born	27	62	118	Not
+ 99	313	Unknown	34	59	100	Yes
+115	290	First born	30	64	140	Yes
+145	290	Unknown	24	67	125	Not
+102	249	Unknown	23	67	134	Yes
+136	299	First born	29	64	115	Not
+121	286	Unknown	99	NA	NA	Not
+121	282	First born	22	66	133	Not
+120	286	First born	25	62	105	Not
+118	261	First born	26	60	104	Not
+127	304	Unknown	26	62	105	Not
+132	281	Unknown	24	63	117	Not
+102	258	Unknown	22	65	135	Not
+143	279	First born	39	65	129	Yes
+118	277	First born	25	62	120	Not
+102	286	Unknown	22	64	140	Not
+163	280	First born	35	69	139	Not
+132	294	First born	32	64	116	Not
+116	276	First born	33	61	180	Not
+138	288	Unknown	19	66	124	Not
+139	279	First born	20	64	143	Not
+132	298	Unknown	23	61	137	Not
+ 87	282	First born	27	63	104	Yes
+131	297	First born	30	67	132	Not
+130	282	First born	26	67	147	Yes
+123	290	First born	28	66	107	Yes
+115	276	Unknown	18	63	110	Not
+116	272	First born	27	64	130	Yes
+119	286	Unknown	20	67	130	Not
+125	279	Unknown	19	67	135	Not
+144	282	First born	33	66	155	Yes
+123	269	First born	26	67	132	Not
+120	276	First born	23	66	114	Not
+140	251	First born	28	63	210	Not
+120	271	Unknown	17	64	142	Yes
+116	272	First born	99	63	138	Yes
+120	289	Unknown	31	59	102	Not
+146	280	First born	23	61	145	Not
+112	283	Unknown	21	62	102	Yes
+115	269	First born	30	62	115	NA
+132	278	First born	20	64	150	Yes
+146	263	First born	39	53	110	Yes
+122	275	First born	30	68	140	Not
+128	292	First born	32	66	130	Not
+119	277	First born	24	63	120	Yes
+135	278	First born	27	66	148	Not
+116	315	First born	26	NA	NA	Not
+129	235	First born	24	66	135	Not
+116	293	Unknown	28	62	108	Not
+100	275	First born	27	64	111	Yes
+118	280	First born	27	NA	NA	Yes
+138	257	First born	38	67	138	Not
+123	282	First born	22	65	130	Not
+113	288	Unknown	21	61	120	Not
+129	280	Unknown	24	65	140	Yes
+122	280	First born	24	67	127	Yes
+132	281	Unknown	21	67	140	Not
+120	269	Unknown	40	63	130	Not
+114	283	Unknown	20	65	115	Not
+130	280	First born	29	66	135	Not
+117	286	First born	32	66	127	Yes
+142	285	First born	33	63	124	Not
+144	273	First born	27	62	118	Yes
+127	262	Unknown	32	64	125	Not
+115	270	First born	25	67	165	Yes
+ 85	258	First born	41	67	137	Not
+ 99	274	First born	28	66	118	Yes
+123	323	Unknown	17	64	140	Not
+112	281	Unknown	23	61	150	Not
+ 68	223	First born	32	66	149	Yes
+102	283	Unknown	19	65	127	Yes
+109	273	First born	37	65	138	Yes
+102	267	Unknown	25	60	 93	Yes
+ 99	275	First born	23	61	125	Yes
+ 78	256	Unknown	29	65	123	Not
+128	284	Unknown	19	66	111	Yes
+107	303	Unknown	25	67	133	Not
+136	295	First born	23	64	147	Not
+101	278	First born	27	61	 99	Yes
+100	275	Unknown	25	64	125	Not
+109	272	First born	41	66	154	Yes
+117	281	Unknown	21	70	141	Yes
+ 88	252	Unknown	21	60	115	Yes
+ 95	270	First born	35	65	135	Yes
+119	280	Unknown	25	61	NA	Yes
+123	272	First born	28	NA	NA	Not
+127	291	Unknown	24	66	135	Yes
+107	293	First born	20	65	155	Yes
+124	291	First born	26	66	NA	Not
+126	262	First born	37	66	135	Yes
+ 98	278	First born	27	63	110	Yes
+ 96	241	First born	23	64	130	Yes
+104	282	First born	24	63	144	Not
+133	273	Unknown	33	63	135	Not
+ 93	267	First born	25	63	135	Yes
+101	280	Unknown	24	65	123	Yes
+118	277	First born	21	64	155	Not
+130	289	First born	21	61	130	Yes
+125	288	First born	22	63	128	Yes
+140	291	Unknown	19	65	122	Not
+115	290	Unknown	19	65	118	Not
+130	293	First born	26	63	123	Not
+114	277	Unknown	31	64	125	Not
+105	278	First born	21	64	120	Not
+101	289	Unknown	31	60	125	Not
+132	286	First born	26	67	122	Yes
+112	252	First born	37	64	162	Not
+ 69	232	First born	31	59	103	Yes
+114	264	First born	26	63	110	Yes
+123	267	First born	29	63	111	Yes
+129	284	Unknown	20	66	130	Yes
+114	283	Unknown	15	64	117	Yes
+115	290	First born	31	62	 95	Not
+ 98	272	Unknown	35	64	129	Not
+128	283	First born	27	67	126	Not
+119	279	Unknown	20	NA	NA	Yes
+119	271	First born	28	64	175	Yes
+154	288	First born	25	65	147	Not
+127	247	Unknown	21	63	140	Not
+131	263	First born	29	64	180	Yes
+129	288	First born	28	59	102	Not
+114	286	Unknown	22	64	116	Yes
+110	280	First born	29	62	110	Yes
+103	268	First born	31	64	150	Yes
+117	287	First born	20	65	115	Yes
+138	282	First born	25	64	120	Not
+126	280	First born	24	66	147	Yes
+124	271	First born	23	66	145	Not
+111	284	First born	34	62	110	Not
+132	282	First born	28	67	200	Yes
+103	240	First born	26	65	140	Not
+158	285	First born	28	62	130	Not
+146	277	First born	32	NA	NA	Not
+101	286	Unknown	21	64	117	Yes
+132	290	First born	26	66	125	Not
+114	293	Unknown	20	66	180	Yes
+ 71	277	First born	40	69	135	Not
+116	282	First born	19	64	120	Not
+108	271	First born	19	60	109	Yes
+123	298	First born	25	64	113	Yes
+129	289	First born	37	63	132	Not
+134	282	First born	24	62	110	Not
+113	298	First born	30	60	124	Yes
+123	277	Unknown	20	65	160	Not
+147	277	First born	30	68	160	Not
+121	270	Unknown	20	62	103	Not
+125	284	Unknown	19	67	130	Not
+115	277	Unknown	25	66	128	Not
+101	289	First born	27	59	 96	Not
+ 93	271	First born	30	65	127	Yes
+109	275	First born	33	66	120	Not
+115	276	Unknown	23	60	106	Not
+130	293	Unknown	23	65	122	Yes
+123	278	First born	21	61	 89	Not
+111	300	First born	20	64	108	Yes
+ 97	279	Unknown	24	64	138	Yes
+122	292	Unknown	25	65	125	Not
+124	300	First born	28	63	 95	Not
+129	276	First born	26	66	145	Not
+124	290	First born	26	59	140	Not
+107	280	First born	20	60	107	Yes
+142	273	Unknown	22	62	125	Not
+129	287	Unknown	29	66	135	Not
+174	281	First born	37	67	155	Not
+105	264	First born	30	65	105	Yes
+103	291	Unknown	26	63	102	Not
+124	285	Unknown	27	63	114	Not
+105	265	First born	43	65	124	Not
+133	275	First born	36	65	137	Yes
+161	302	Unknown	22	70	170	Yes
+105	260	First born	23	64	197	Not
+108	281	First born	41	66	171	Not
+153	297	First born	27	66	145	Not
+133	280	Unknown	25	61	130	Not
+115	269	First born	41	63	165	Yes
+127	254	First born	27	67	146	Yes
+128	271	First born	41	65	135	Yes
+117	265	First born	40	68	134	Yes
+123	274	First born	23	66	135	Not
+119	288	Unknown	22	64	132	Yes
+141	284	Unknown	17	64	105	Not
+ 91	260	First born	26	62	110	Yes
+116	291	First born	29	65	133	Yes
+116	255	First born	24	65	132	Not
+121	273	First born	32	64	112	Not
+111	274	First born	36	67	159	Not
+102	257	First born	25	66	135	Not
+118	283	First born	24	65	150	Not
+126	294	Unknown	22	65	125	Yes
+ 98	286	First born	31	62	105	Yes
+131	288	Unknown	28	65	125	Not
+115	278	First born	21	60	113	Not
+103	281	Unknown	22	59	 98	Yes
+147	301	First born	26	65	130	Not
+123	308	Unknown	19	65	135	Not
+125	283	First born	22	65	119	Not
+117	270	First born	30	67	130	Yes
+ 99	268	First born	29	71	150	Not
+115	283	First born	31	66	127	Yes
+116	265	First born	36	63	120	Not
+118	297	First born	35	68	140	Yes
+170	303	Unknown	21	64	129	Not
+104	270	First born	25	61	110	Not
+108	269	Unknown	20	62	114	Not
+144	289	Unknown	17	69	130	Yes
+ 99	250	Unknown	26	66	115	Not
+ 97	263	Unknown	25	63	107	Not
+142	284	First born	37	68	155	NA
+ 85	270	Unknown	19	63	118	Yes
+130	285	Unknown	24	66	126	Yes
+117	275	First born	22	62	115	Yes
+109	302	First born	24	64	110	Not
+147	285	First born	24	64	137	Not
+105	281	Unknown	23	64	115	Not
+135	278	Unknown	27	68	139	Yes
+115	273	Unknown	23	67	215	Yes
+123	280	First born	23	65	140	Yes
+105	274	Unknown	26	61	100	Not
+154	271	First born	36	69	160	Yes
+110	276	First born	25	63	107	Yes
+119	285	Unknown	26	62	108	Not
+103	292	Unknown	28	62	132	Not
+117	272	First born	25	64	116	Not
+120	289	First born	23	69	165	Not
+145	278	First born	24	62	109	Not
+104	271	First born	20	62	 98	Yes
+123	268	Unknown	18	62	110	Yes
+124	272	First born	27	62	110	Not
+129	275	First born	26	64	115	Yes
+ 91	248	First born	33	63	202	Not
+109	295	First born	32	61	135	Not
+108	268	First born	22	58	112	Yes
+ 79	268	First born	36	61	108	Not
+133	301	First born	23	62	108	Not
+114	309	Unknown	27	62	118	Not
+128	273	First born	34	61	125	Not
+129	280	Unknown	24	65	126	Not
+ 97	234	Unknown	26	65	112	Not
+103	276	Unknown	21	62	130	Yes
+176	293	Unknown	19	68	180	Not
+143	294	First born	44	65	145	Not
+127	292	Unknown	21	68	130	Yes
+107	256	First born	28	59	 90	Yes
+113	268	First born	31	62	100	Not
+106	279	Unknown	21	62	118	Yes
+152	285	First born	24	61	120	Yes
+150	275	First born	29	65	145	Not
+136	278	First born	35	64	118	Yes
+151	298	First born	37	64	135	NA
+124	279	First born	35	66	129	Not
+123	284	Unknown	18	64	112	Yes
+119	288	First born	37	62	128	Not
+122	291	First born	40	64	155	Not
+112	250	First born	34	67	124	Not
+ 93	270	First born	25	64	125	Yes
+109	271	First born	27	61	NA	Yes
+136	274	Unknown	20	63	165	Not
+121	NA	First born	31	68	132	Not
+150	292	First born	26	64	124	Not
+ 94	264	Unknown	26	64	135	Not
+120	280	First born	29	NA	NA	Yes
+146	306	First born	38	63	112	Not
+129	274	First born	19	65	101	Yes
+125	292	First born	27	65	117	Yes
+124	273	First born	21	63	115	Not
+141	282	First born	27	63	115	Not
+ 96	266	First born	33	67	135	Yes
+138	297	First born	30	66	133	Yes
+127	282	First born	28	67	134	Not
+114	251	First born	26	64	119	Yes
+103	297	First born	31	64	125	Not
+127	288	Unknown	20	65	115	Yes
+141	292	First born	29	62	110	NA
+113	274	First born	23	63	108	Yes
+ 99	249	Unknown	31	57	 98	Yes
+ 97	279	First born	33	61	105	Yes
+116	275	Unknown	20	68	145	Not
+126	297	First born	26	66	120	Yes
+158	296	First born	28	66	140	NA
+119	277	First born	28	66	130	Yes
+123	283	First born	27	62	110	Not
+129	287	First born	24	60	107	Not
+117	256	First born	37	65	132	Yes
+100	275	First born	26	60	115	Not
+131	274	First born	28	64	118	Yes
+146	279	First born	27	64	124	Not
+ 84	267	First born	29	60	 95	Not
+115	302	First born	28	64	116	Not
+115	281	First born	25	60	 94	Not
+118	284	First born	28	70	145	Yes
+ 91	292	Unknown	19	61	125	Not
+112	255	First born	39	60	115	Not
+115	316	Unknown	29	64	110	Not
+110	269	First born	38	61	102	Not
+117	277	First born	34	66	140	Not
+109	268	Unknown	29	65	120	Yes
+ 99	267	First born	22	62	 94	Not
+131	274	First born	27	62	160	Yes
+136	291	Unknown	25	61	105	Not
+130	298	First born	20	62	120	Not
+134	296	First born	35	60	117	Yes
+128	271	First born	29	65	126	Yes
+150	286	First born	38	67	175	Not
+ 86	284	First born	39	65	174	Yes
+115	278	First born	26	63	112	Yes
+141	281	First born	28	NA	NA	Yes
+ 78	237	Unknown	23	63	144	Not
+100	295	Unknown	21	68	125	Yes
+116	270	First born	25	68	169	Not
+110	271	Unknown	26	66	135	Not
+109	283	First born	34	64	120	Not
+113	259	First born	38	64	128	Not
+136	297	Unknown	23	66	135	Not
+114	NA	First born	23	63	116	Yes
+121	273	Unknown	34	61	125	Not
+117	288	Unknown	28	63	140	Not
+166	299	First born	26	68	140	Not
+ 87	229	First born	27	62	138	Not
+120	294	Unknown	23	66	128	Yes
+ 95	286	First born	26	66	118	Yes
+132	273	First born	28	62	113	Not
+ 90	286	First born	32	63	105	Yes
+131	308	First born	30	58	150	Yes
+103	279	Unknown	22	65	145	Yes
+144	287	Unknown	33	71	153	Yes
+137	299	First born	24	62	115	Not
+124	270	First born	20	64	122	Not
+136	281	Unknown	27	64	127	Not
+117	298	Unknown	22	64	160	Not
+121	269	First born	23	62	130	Not
+116	280	First born	34	68	198	Not
+139	275	First born	33	62	118	Not
+110	280	First born	39	67	125	Not
+ 86	242	First born	20	64	110	Yes
+133	287	First born	20	65	165	Not
+ 81	254	First born	23	62	157	Not
+133	281	First born	33	63	120	Not
+132	284	Unknown	20	66	140	Not
+132	287	First born	29	64	148	Not
+137	274	First born	27	64	126	Not
+ 84	279	First born	34	63	190	Not
+136	279	First born	30	69	130	Yes
+ 92	270	First born	34	62	100	Yes
+114	298	Unknown	28	67	114	Not
+129	274	First born	33	69	136	Yes
+167	288	Unknown	19	63	117	Not
+ 71	NA	First born	19	64	120	Not
+124	282	Unknown	22	65	118	Not
+105	269	First born	27	62	100	Yes
+155	283	Unknown	19	70	137	Not
+125	279	Unknown	21	66	126	Not
+125	266	First born	21	62	120	Yes
+125	283	Unknown	22	59	 96	Not
+115	315	Unknown	22	62	110	Not
+174	288	First born	25	61	182	Not
+127	290	First born	35	66	122	Not
+113	262	First born	24	60	105	Not
+115	273	First born	22	66	130	Yes
+139	277	First born	35	63	140	Not
+127	275	First born	26	62	125	Not
+111	289	First born	26	NA	NA	Yes
+112	272	First born	26	60	 98	Not
+143	285	First born	30	64	135	Yes
+116	286	Unknown	22	58	105	Yes
+155	279	First born	33	61	125	Not
+121	290	First born	31	64	127	Not
+110	282	Unknown	21	66	125	Yes
+ 87	277	First born	31	62	120	Yes
+132	330	First born	34	64	130	Yes
+105	261	First born	32	NA	NA	Yes
+129	277	First born	24	68	142	Not
+123	280	First born	20	62	105	Yes
+ 91	279	Unknown	27	62	118	Not
+147	286	First born	30	68	147	Not
+144	289	First born	20	62	106	Not
+128	292	First born	30	64	127	Not
+137	318	Unknown	19	64	110	Not
+104	289	First born	24	60	104	Yes
+120	271	First born	32	63	130	Not
+112	277	Unknown	23	64	118	Not
+138	286	First born	26	63	111	Not
+ 96	280	First born	27	63	105	Yes
+134	285	First born	35	62	134	Not
+126	285	First born	24	64	140	Not
+112	300	First born	29	62	121	Not
+138	313	Unknown	27	65	111	Not
+110	275	First born	25	63	120	Not
+ 83	253	First born	29	63	110	Yes
+112	288	Unknown	20	62	110	Not
+148	286	First born	38	68	160	Not
+119	300	Unknown	34	63	124	Not
+ 86	246	First born	25	64	113	Yes
+110	269	First born	38	63	145	Yes
+126	282	First born	23	61	120	Not
+125	272	First born	30	60	 96	Not
+136	252	First born	27	63	130	Not
+127	283	Unknown	29	64	119	Not
+ 84	272	First born	25	64	150	Yes
+131	278	First born	22	66	124	Not
+123	286	Unknown	21	67	130	Yes
+ 96	282	Unknown	30	68	127	Yes
+110	286	First born	26	62	100	Not
+123	282	First born	29	68	164	Not
+152	286	Unknown	19	67	135	Not
+127	288	First born	28	65	155	Not
+117	269	Unknown	21	64	149	Yes
+125	277	First born	29	66	139	Yes
+139	273	First born	29	68	130	Not
+114	280	First born	31	66	134	Yes
+ 96	280	Unknown	34	62	127	Yes
+124	289	First born	29	63	110	Not
+107	272	First born	30	64	140	Yes
+113	277	First born	38	64	108	Not
+ 98	292	Unknown	20	65	124	Yes
+119	285	Unknown	28	65	127	Not
+107	268	First born	37	58	112	Yes
+117	255	First born	26	61	120	Not
+117	305	First born	24	64	155	Not
+144	276	First born	23	67	129	Yes
+136	268	First born	30	63	132	Yes
+121	278	First born	28	69	132	Not
+165	282	First born	29	66	145	Not
+120	279	First born	38	64	124	Not
+125	280	First born	30	65	130	Yes
+137	285	First born	29	65	110	Not
+100	288	Unknown	28	61	108	Yes
+134	284	First born	28	62	112	Not
+ 88	262	First born	20	65	118	Yes
+108	291	First born	39	65	135	Not
+123	271	First born	41	64	162	Not
+141	277	First born	38	66	162	Not
+130	270	Unknown	19	66	130	Not
+139	299	Unknown	20	67	112	Not
+130	283	First born	32	65	118	Not
+113	289	Unknown	26	59	 91	Not
+ 77	238	Unknown	23	63	103	Yes
+ 62	228	First born	24	61	107	Not
+ 93	245	First born	33	61	100	Yes
+109	275	Unknown	37	63	112	Yes
+145	283	First born	27	65	125	Yes
+ 92	224	First born	19	63	134	Yes
+120	281	First born	26	61	115	Not
+135	284	First born	39	67	141	Not
+113	287	First born	36	63	118	Not
+126	251	Unknown	28	64	123	Not
+143	270	Unknown	27	70	148	Not
+128	282	Unknown	25	64	125	Not
+ 98	262	First born	22	67	120	Not
+110	306	Unknown	32	61	122	Not
+162	284	First born	27	64	126	Not
+116	292	Unknown	20	65	118	Not
+128	284	First born	23	62	110	Not
+111	275	Unknown	18	61	108	Yes
+137	280	First born	34	60	107	Not
+134	278	First born	28	NA	126	Yes
+100	264	First born	29	64	120	Yes
+160	271	First born	32	67	215	Not
+112	267	Unknown	22	62	138	Not
+134	297	First born	27	67	170	Yes
+145	308	First born	35	64	110	Yes
+116	295	First born	32	65	120	Not
+126	278	First born	26	64	150	Yes
+111	285	First born	29	65	130	Not
+126	282	First born	33	62	117	Not
+109	291	First born	39	64	107	Not
+136	291	First born	41	66	191	Not
+119	286	First born	22	63	185	Yes
+103	267	Unknown	21	66	150	Yes
+124	284	Unknown	17	62	112	Not
+155	286	First born	31	66	127	Not
+122	282	Unknown	21	66	110	Not
+113	285	First born	26	66	140	Not
+122	273	First born	26	66	210	Not
+126	293	Unknown	27	62	111	Not
+116	277	First born	41	64	124	Yes
+102	294	First born	21	65	130	Yes
+110	181	First born	27	64	133	Not
+133	285	Unknown	30	64	160	Not
+125	283	First born	29	65	125	Not
+164	286	Unknown	32	66	143	Not
+133	297	First born	36	61	125	Not
+135	300	First born	25	64	NA	Not
+124	293	Unknown	19	65	150	Not
+122	306	Unknown	22	62	100	Not
+121	271	Unknown	34	63	129	Yes
+100	272	First born	30	64	150	Yes
+129	NA	Unknown	19	61	110	Not
+ 90	266	Unknown	26	67	135	Not
+128	272	Unknown	18	67	109	Not
+116	280	Unknown	22	59	NA	Yes
+ 86	276	Unknown	23	65	125	Yes
+123	282	First born	30	63	118	Not
+ 87	275	First born	28	63	110	Yes
+128	291	Unknown	27	63	132	Not
+120	288	First born	28	63	125	Not
+125	301	Unknown	35	68	181	Not
+118	265	First born	27	61	123	Not
+116	284	Unknown	24	66	117	Not
+131	262	First born	22	67	135	Not
+151	286	Unknown	22	66	130	Not
+ 88	273	First born	20	66	110	Yes
+137	284	First born	30	67	110	Not
+127	289	First born	23	67	140	Not
+ 96	278	Unknown	18	60	120	Yes
+129	281	First born	31	67	155	Not
+128	288	Unknown	26	65	114	Not
+ 85	255	First born	24	68	159	Not
+111	281	Unknown	27	64	112	Not
+124	275	First born	28	61	116	Not
+112	292	Unknown	28	62	110	Yes
+115	281	First born	28	61	128	Yes
+ 72	271	First born	39	61	136	Not
+122	281	Unknown	24	65	137	Yes
+116	291	First born	26	66	153	Not
+127	272	First born	20	64	130	Yes
+ 90	266	First born	23	61	 99	Yes
+ 99	273	Unknown	27	59	115	Not
+144	307	Unknown	26	66	125	Not
+138	280	Unknown	30	65	175	Not
+ 58	245	First born	34	64	156	Yes
+109	265	Unknown	24	63	107	Yes
+110	277	Unknown	19	62	160	Not
+129	278	First born	27	63	128	Not
+150	284	First born	40	67	130	Not
+128	279	First born	27	66	135	Not
+142	284	Unknown	31	66	137	Yes
+115	268	Unknown	31	64	125	Not
+108	274	First born	28	66	175	NA
+108	283	First born	35	62	108	Not
+139	281	First born	27	63	137	Not
+115	275	First born	25	61	155	Yes
+136	288	First born	23	62	217	Not
+163	289	Unknown	25	64	126	Yes
+131	285	First born	26	64	130	Not
+ 77	238	First born	38	67	135	Yes
+124	283	Unknown	33	67	156	Yes
+104	270	Unknown	26	62	115	Not
+102	267	Unknown	24	61	109	Yes
+ 94	268	First born	30	62	105	Yes
+158	295	Unknown	37	70	137	Not
+112	275	Unknown	21	68	143	Yes
+119	286	First born	26	64	123	Yes
+ 97	279	First born	29	68	178	Yes
+ 99	252	First born	21	64	120	Not
+115	264	Unknown	23	67	134	Yes
+139	284	First born	37	61	121	Not
+144	304	Unknown	27	58	102	Yes
+ 99	270	First born	22	63	115	Yes
+105	280	Unknown	22	63	116	Not
+ 89	275	First born	34	66	170	Not
+129	270	First born	43	67	160	Not
+119	270	Unknown	20	64	109	Not
+114	291	First born	35	60	112	Not
+106	289	First born	28	67	120	Yes
+122	292	Unknown	34	65	133	Not
+136	261	First born	24	65	110	Not
+121	286	Unknown	22	69	130	Yes
+112	282	First born	26	65	122	Not
+112	266	First born	26	64	122	Not
+123	314	First born	22	61	121	Yes
+139	286	First born	33	65	125	Yes
+125	290	First born	36	59	105	Not
+105	295	Unknown	20	64	112	Yes
+130	276	First born	41	68	130	Not
+146	294	First born	22	66	145	Yes
+133	290	First born	21	64	145	Not
+147	296	Unknown	19	67	124	Not
+109	269	First born	23	63	113	Not
+122	286	First born	23	64	120	Yes
+135	260	First born	43	65	135	Not
+107	NA	First born	19	60	118	Not
+117	272	First born	32	66	118	Not
+138	284	First born	30	66	133	Yes
+120	283	First born	28	64	122	Yes
+119	273	First born	35	65	125	Yes
+118	278	Unknown	19	62	126	Not
+105	330	First born	23	64	112	Yes
+113	306	Unknown	21	65	137	Not
+136	NA	First born	36	66	135	Not
+148	291	Unknown	21	63	115	Not
+140	281	Unknown	22	69	135	Not
+134	287	Unknown	33	67	131	Not
+120	280	First born	31	61	111	Not
+123	296	Unknown	26	64	110	Yes
+102	275	First born	43	64	160	Not
+ 55	204	First born	35	65	140	Not
+103	276	Unknown	19	63	149	Yes
+123	283	First born	21	65	110	Not
+105	270	Unknown	27	65	134	Yes
+138	289	First born	33	65	155	Not
+128	281	First born	28	63	150	Not
+139	285	First born	30	65	129	Yes
+104	288	Unknown	27	61	122	Yes
+159	296	Unknown	27	64	112	Not
+118	276	First born	29	62	130	Yes
+ 99	285	First born	25	69	128	Yes
+144	281	First born	20	63	120	Not
+121	270	First born	25	62	108	Yes
+117	265	Unknown	24	66	 98	Not
+119	293	Unknown	23	65	127	Not
+105	281	Unknown	19	61	130	Not
+125	283	First born	37	63	145	Yes
+119	259	First born	37	62	130	Not
+101	273	First born	39	60	113	Not
+105	277	Unknown	25	64	156	Not
+110	281	First born	27	60	110	Not
+100	270	Unknown	21	65	132	Yes
+ 98	284	First born	29	68	140	Not
+127	276	First born	37	64	159	Not
+117	324	First born	22	62	164	Yes
+122	278	First born	37	68	114	Not
+122	273	Unknown	23	64	130	Yes
+118	281	Unknown	36	66	140	Yes
+137	303	Unknown	23	66	127	Yes
+120	275	First born	32	63	115	Yes
+143	285	First born	27	68	185	Not
+108	270	First born	29	67	124	Yes
+131	284	Unknown	19	61	114	Yes
+110	277	First born	36	61	116	Not
+105	276	First born	20	62	112	Yes
+133	274	First born	30	63	NA	Not
+125	255	First born	23	63	133	Not
+ 78	258	Unknown	24	66	115	Yes
+114	289	First born	36	60	115	Not
+111	278	First born	29	65	145	Yes
+103	250	First born	40	59	140	Not
+114	276	First born	26	62	127	Not
+ 75	247	First born	36	64	120	Yes
+169	296	First born	33	67	185	Not
+ 94	271	First born	36	61	130	Yes
+150	287	First born	36	62	135	Not
+144	248	First born	30	70	145	Not
+144	291	First born	28	67	130	Not
+143	313	First born	20	68	150	Not
+145	304	Unknown	25	63	109	Yes
+121	285	First born	34	64	110	Not
+105	256	First born	31	66	142	Not
+134	286	First born	25	64	125	Not
+129	294	Unknown	21	65	132	Not
+114	276	First born	24	63	110	Not
+ 97	265	First born	30	61	110	Not
+160	292	First born	28	64	120	Not
+ 65	237	First born	31	67	130	Not
+145	288	First born	28	64	116	Not
+ 95	273	First born	23	60	 90	Not
+139	293	Unknown	21	69	130	Not
+123	288	First born	27	63	125	Not
+109	283	First born	23	65	112	Yes
+110	268	First born	34	64	127	Not
+122	296	Unknown	24	65	132	Not
+115	307	First born	34	65	128	Yes
+117	323	First born	26	62	NA	Not
+108	279	Unknown	19	64	115	Not
+120	287	First born	23	67	116	Yes
+131	269	First born	36	68	145	Not
+136	283	Unknown	24	63	119	Not
+125	290	First born	32	63	135	Not
+ 96	285	Unknown	20	66	117	Yes
+102	282	Unknown	29	65	125	Yes
+102	288	Unknown	18	65	117	Not
+112	277	Unknown	22	67	120	Not
+135	272	First born	30	65	130	Not
+ 91	266	First born	23	60	120	Yes
+129	276	First born	31	63	125	Not
+155	290	First born	26	66	129	Yes
+109	274	First born	33	69	144	Yes
+ 80	262	Unknown	31	61	100	Yes
+125	273	First born	30	64	145	Not
+ 94	284	First born	24	63	104	Yes
+148	281	First born	27	63	110	Yes
+ 73	277	First born	29	65	145	Not
+123	267	Unknown	19	66	132	Yes
+ 65	232	First born	24	66	125	Yes
+118	279	Unknown	21	64	108	Not
+102	283	First born	39	60	119	Not
+120	280	First born	24	61	118	Not
+108	270	Unknown	21	65	130	Yes
+122	280	Unknown	45	62	128	Not
+103	268	First born	32	62	 97	Yes
+105	312	First born	41	61	115	Yes
+126	273	Unknown	25	68	135	Not
+145	316	First born	22	67	142	Not
+139	293	First born	34	66	131	Not
+124	290	First born	26	65	165	Not
+121	282	First born	30	65	122	Not
+126	299	Unknown	21	60	114	Not
+119	286	Unknown	33	67	137	Not
+114	277	Unknown	19	63	107	Not
+118	272	First born	23	64	113	Not
+127	295	First born	36	65	145	Not
+117	290	Unknown	22	67	110	Not
+137	277	First born	41	65	126	Not
+133	292	First born	29	65	135	Not
+100	264	First born	28	60	111	Yes
+107	273	Unknown	26	65	135	Not
+115	276	Unknown	20	62	105	Yes
+ 91	292	Unknown	26	61	113	Yes
+112	287	First born	27	64	110	Yes
+125	289	Unknown	31	61	120	Not
+157	291	First born	33	65	121	Not
+108	256	Unknown	26	67	130	Not
+130	279	First born	31	62	122	Not
+135	289	First born	25	64	127	Not
+123	277	First born	24	66	122	Not
+100	281	First born	24	61	115	Not
+124	277	Unknown	23	64	104	Not
+174	284	First born	39	65	163	Not
+129	278	First born	26	67	146	Not
+119	275	First born	27	59	113	Yes
+126	272	Unknown	35	61	120	Yes
+128	267	First born	37	61	142	Not
+116	282	Unknown	19	64	124	Not
+100	285	First born	18	68	127	Yes
+ 96	285	First born	37	66	135	Yes
+131	279	Unknown	20	68	122	Yes
+110	292	First born	35	62	127	Not
+108	278	First born	28	63	125	Yes
+129	275	First born	24	65	135	Not
+141	285	First born	23	67	150	Not
+110	276	First born	31	70	155	Not
+118	273	First born	21	63	120	Not
+111	267	Unknown	24	60	115	Not
+160	297	First born	20	68	136	Not
+120	280	First born	30	60	115	Not
+121	281	First born	29	63	108	Not
+113	282	First born	30	64	118	Yes
+117	270	First born	23	58	115	Not
+158	267	First born	35	64	125	Not
+128	277	First born	39	61	120	Not
+158	289	First born	30	66	140	Not
+133	289	First born	22	65	123	Yes
+163	298	First born	37	61	 98	Not
+128	282	Unknown	19	66	118	Not
+126	271	Unknown	21	60	105	Not
+127	283	First born	42	62	154	Yes
+134	287	First born	40	63	118	Not
+140	274	First born	41	63	122	Not
+102	285	First born	29	63	117	Yes
+100	252	First born	24	61	150	Not
+120	295	First born	29	59	100	Yes
+ 98	279	Unknown	18	65	115	Yes
+130	246	First born	19	62	118	Not
+104	280	First born	41	63	118	Yes
+122	285	First born	31	62	102	Yes
+137	276	Unknown	25	64	127	Not
+114	285	Unknown	20	61	104	Not
+ 63	236	Unknown	24	58	 99	Not
+ 98	318	First born	23	63	107	Not
+ 99	268	First born	32	63	124	Yes
+ 89	238	Unknown	26	64	136	Not
+117	283	First born	22	65	142	Yes
+143	281	First born	29	67	132	Not
+106	279	First born	29	63	125	Yes
+ 99	246	First born	35	62	106	Not
+156	300	First born	27	65	120	Yes
+ 72	266	Unknown	25	66	200	Yes
+ 75	266	First born	37	61	113	Yes
+ 97	285	First born	35	61	112	Yes
+106	264	First born	41	64	114	Not
+ 91	225	First born	18	68	117	Yes
+117	269	Unknown	28	61	 99	Not
+117	284	First born	25	66	177	Yes
+112	291	First born	23	66	145	Not
+112	270	First born	29	61	124	Not
+141	293	First born	28	61	125	Not
+131	259	First born	19	63	134	Not
+130	290	First born	19	65	123	Yes
+132	270	First born	26	67	140	Not
+114	265	First born	23	67	130	Yes
+160	291	First born	34	64	110	Yes
+106	283	First born	24	63	119	Not
+ 84	260	Unknown	20	64	104	Yes
+112	268	Unknown	25	59	103	Not
+139	311	First born	37	66	135	Not
+104	267	First born	30	63	180	Not
+130	294	First born	32	63	110	Yes
+ 71	254	First born	19	61	145	Yes
+ 82	270	First born	21	65	150	Yes
+119	280	Unknown	21	64	128	Not
+123	353	First born	26	63	115	Not
+115	278	First born	27	59	 95	Not
+124	289	Unknown	21	67	145	Yes
+138	292	First born	25	65	130	Yes
+ 88	276	First born	25	63	103	Yes
+146	305	First born	23	NA	NA	Not
+128	241	Unknown	17	64	126	Not
+ 82	274	First born	31	64	101	Yes
+100	274	First born	24	63	113	Not
+114	271	First born	32	61	130	Not
+ 97	269	First born	20	65	137	Yes
+126	298	First born	24	61	112	Not
+122	275	Unknown	20	65	127	Not
+152	295	First born	39	62	140	Not
+116	274	First born	21	62	110	Yes
+132	302	First born	36	63	145	Yes
+ 84	260	Unknown	37	66	140	Not
+119	277	Unknown	18	61	 89	Yes
+104	275	First born	24	NA	NA	Not
+106	312	First born	24	62	135	Yes
+124	NA	Unknown	39	65	228	Not
+139	291	First born	24	65	160	Not
+103	273	First born	36	65	158	Yes
+112	299	First born	24	67	145	Yes
+ 96	276	First born	33	64	127	Yes
+102	281	Unknown	19	67	135	Yes
+120	300	First born	34	63	150	Yes
+102	338	First born	19	64	170	Not
+ 97	255	Unknown	22	63	107	Yes
+113	285	First born	22	70	145	Not
+130	297	First born	32	58	130	Not
+ 97	260	Unknown	25	63	115	Yes
+116	273	First born	31	61	120	Not
+114	266	First born	29	64	113	Not
+127	242	First born	17	61	135	Yes
+ 87	247	Unknown	18	66	125	Yes
+141	281	First born	29	54	156	Yes
+144	283	Unknown	25	66	140	Not
+116	273	First born	33	66	130	Yes
+ 75	265	First born	21	65	103	Yes
+138	286	Unknown	28	68	120	Not
+ 99	271	First born	39	69	151	Not
+118	293	First born	21	63	103	Not
+152	267	First born	28	NA	119	Yes
+ 97	266	First born	24	62	109	Not
+146	319	First born	28	66	145	Not
+ 81	285	First born	19	63	150	Yes
+110	321	First born	28	66	180	Not
+135	284	Unknown	19	60	 95	Not
+114	290	Unknown	21	65	120	Yes
+124	288	Unknown	21	64	116	Yes
+115	262	Unknown	23	64	136	Yes
+143	281	First born	28	65	135	Yes
+113	287	Unknown	29	70	145	Yes
+109	244	Unknown	21	63	102	Yes
+103	278	First born	30	60	 87	Yes
+118	276	First born	34	64	116	Not
+127	290	First born	27	65	121	Not
+132	270	First born	27	65	126	Not
+113	275	Unknown	27	60	100	Not
+128	265	First born	24	67	120	Not
+130	291	First born	30	65	150	Yes
+125	281	Unknown	21	65	110	Not
+117	297	First born	38	65	129	Not
