@@ -1,5 +1,5 @@
 # Base de datos recolectada por Catalina Ramirez Florez
-# -----------------------------------------------------------------------------------
+#
 # La descripcion de las variables es dada a continuacion:
 # embi: es embi
 # inf: inflacion o ipc en Colombia
