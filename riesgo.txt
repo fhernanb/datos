@@ -1,4 +1,5 @@
 # Base de datos recolectada por Catalina Ramirez Florez
+# -----------------------------------------------------------------------------------
 # La descripcion de las variables es dada a continuacion:
 # embi: es embi
 # inf: inflacion o ipc en Colombia
@@ -7,8 +8,9 @@
 # dext: deuda de Colombia
 # resint: reservas internacionales
 # pib: pib
-# tact: tasa activa o de colocación, es la que reciben los intermediarios financieros
-# tpas: tasa pasiva o de captación, es la que pagan los intermediarios financieros
+# tact: tasa activa o de colocacion, es la que reciben los intermediarios financieros
+# tpas: tasa pasiva o de captacion, es la que pagan los intermediarios financieros
+# ------------------------------------------------------------------------------------
 embi	inf	tc	des	dext	resint	pib tact	tpas
 2.11	2.01	1948.05	13.01	64791.91	25332.69	131382	3.99	9.3
 2.08	2.1	1949.3	11.97	64791.91	26090.72	135121	3.7	8.96
