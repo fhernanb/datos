@@ -3,8 +3,8 @@
 # ap: anos al parto
 # cr: componente racial
 # cc: body condition (condicion corporal)
-# ppd: producción promedio de leche por día durante el periodo
-# ano: año del parto
+# ppd: produccion promedio de leche por dia durante el periodo
+# ano: ano del parto
 # epoca: epoca del parto
 # edad: edad de la vaca en semanas
 Id	parto	ap	cr	cc	ppd	ano	epoca	edad
