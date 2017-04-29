@@ -1,0 +1,37 @@
+# Esta es una base de datos con la informacion corporal de un
+# grupo de estudiantes de pregrado de la universidad.
+# -----------------------------------------------------------
+# Las variables son:
+# Peso: peso corporal en kg
+# Sexo: género, F para mujeres y M para hombres
+# Estatura: estatura en metros
+# circun_cuello: circunferencia del cuello en centimetros
+# circun_muneca: circunferencia de la muneca en centimetros
+# -----------------------------------------------------------
+Peso	Sexo	Estatura	circun_cuello 	circun_muneca
+ 47.6	F	1.57	29.5	13.9
+ 68.1	M	1.66	38.4	16.0
+ 68.0	M	1.90	36.5	16.6
+ 80.0	M	1.76	38.0	17.1
+ 68.1	M	1.83	38.0	17.1
+ 56.1	F	1.66	33.0	14.7
+ 54.2	F	1.65	32.5	15.4
+ 69.2	M	1.78	40.5	16.5
+ 74.3	M	1.68	38.0	16.1
+ 73.3	M	1.69	37.5	16.3
+102.2	M	1.79	41.5	17.1
+ 46.7	F	1.49	31.5	13.8
+ 63.8	M	1.74	38.0	16.4
+ 76.9	M	1.73	39.5	17.6
+ 52.5	F	1.52	32.5	14.4
+ 67.3	M	1.76	36.5	16.1
+ 79.1	M	1.82	38.0	18.0
+ 58.4	F	1.62	33.0	14.3
+ 59.3	F	1.68	32.0	14.2
+ 57.3	F	1.61	32.0	14.7
+ 67.6	F	1.64	34.5	15.3
+ 62.7	F	1.67	33.0	15.3
+ 71.9	M	1.64	38.5	16.8
+ 74.9	M	1.75	40.0	16.8
+ 73.0	M	1.85	37.2	16.4
+ 63.8	M	1.71	35.0	15.6
