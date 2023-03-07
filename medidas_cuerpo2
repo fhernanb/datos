@@ -3,7 +3,7 @@
 # -----------------------------------------------------------
 # Las variables son:
 # Peso: peso corporal en kg
-# Sexo: género, F para mujeres y M para hombres
+# Sexo: genero, F para mujeres y M para hombres
 # Estatura: estatura en metros
 # circun_cuello: circunferencia del cuello en centimetros
 # circun_muneca: circunferencia de la muneca en centimetros
